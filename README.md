@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinh Kha</h1>
-<h3 align="center">A Intern Backend Developer from Vietnam</h3>
+<h3 align="center">A **Intern Backend Developer** from **Pratek Technologies**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truongdinhkha-intern&label=Profile%20views&color=1d9ae7&style=flat" alt="truongdinhkha-intern" /> </p>
 
-- 🌱 I’m currently learning **ASP .NET Core and Java Spring Boot**
+- 🌱 I’m currently learning **ASP .NET Core** and **Java Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
