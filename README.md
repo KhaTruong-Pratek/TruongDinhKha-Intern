@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pratek Technologies<br>🌱 I’m currently learning ASP .NET Core and Java Spring Boot<br>
+🔭 I’m currently working on **Pratek Technologies**<br>🌱 I’m currently learning **ASP .NET Core** and **Java Spring Boot**<br>
 
 
 ## 🌐 Socials:
