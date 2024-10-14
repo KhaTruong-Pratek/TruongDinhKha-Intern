@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinh Kha</h1>
-<h3 align="center">A Intern Backend Developer from Vietnam</h3>
+<h3 align="center">A Intern Backend Developer from Pratek Technologies</h3>
 
-- 🌱 I’m currently learning **ASP .NET Core and Java Spring Boot**
+- 🌱 I’m currently learning **ASP .NET Core** and **Java Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
