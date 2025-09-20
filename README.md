@@ -25,11 +25,8 @@ public class Kha {
         "Java & Spring Framework",
         "SQL Server & PostgreSQL",
         "MongoDB & NoSQL",
-        "RESTful API Design",
-        "Microservices Architecture"
+        "RESTful API Design"
     };
-    
-    public string CurrentFocus = "Building robust backend systems for Smart TMS";
     public string[] Expertise = {
         "Database Optimization",
         "API Development", 
@@ -37,8 +34,6 @@ public class Kha {
         "Performance Tuning",
         "Code Architecture"
     };
-    
-    public string FunFact = "I turn business requirements into scalable backend solutions ☕ → 🏗️";
 }
 ```
 
